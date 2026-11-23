@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "lav",
+    "name": "Lav",
+    "emoji": "🦁",
+    "group": "Sisavac",
+    "habitat": "Afričke savane",
+    "diet": "Mesojed",
+    "facts": [
+      "Živi u skupinama koje zovemo čopori.",
+      "Lavice najčešće zajedno love."
+    ]
+  },
+  {
+    "id": "tigar",
+    "name": "Tigar",
+    "emoji": "🐅",
+    "group": "Sisavac",
+    "habitat": "Azijske šume i travnjaci",
+    "diet": "Mesojed",
+    "facts": [
+      "Svaki tigar ima jedinstven uzorak pruga.",
+      "Odličan je plivač."
+    ]
+  },
+  {
+    "id": "leopard",
+    "name": "Leopard",
+    "emoji": "🐆",
+    "group": "Sisavac",
+    "habitat": "Afričke i azijske šume i savane",
+    "diet": "Mesojed",
+    "facts": [
+      "Često prenosi plijen na drvo.",
+      "Njegove pjege tvore uzorke nalik rozetama."
+    ]
+  },
+  {
+    "id": "gepard",
+    "name": "Gepard",
+    "emoji": "🐆",
+    "group": "Sisavac",
+    "habitat": "Afričke savane",
+    "diet": "Mesojed",
+    "facts": [
+      "Najbrži je kopneni sisavac na kratkim udaljenostima.",
+      "Ne može uvući kandže potpuno kao većina mačaka."
+    ]
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "emoji": "🐆",
+    "group": "Sisavac",
+    "habitat": "Srednjoameričke i južnoameričke šume",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima iznimno snažne čeljusti.",
+      "Dobro pliva."
+    ]
+  },
+  {
+    "id": "vuk",
+    "name": "Vuk",
+    "emoji": "🐺",
+    "group": "Sisavac",
+    "habitat": "Šume, planine i tundra",
+    "diet": "Mesojed",
+    "facts": [
+      "Živi u obiteljskim čoporima.",
+      "Zavijanje služi komunikaciji."
+    ]
+  },
+  {
+    "id": "lisica",
+    "name": "Crvena lisica",
+    "emoji": "🦊",
+    "group": "Sisavac",
+    "habitat": "Šume, polja i gradovi",
+    "diet": "Svejed",
+    "facts": [
+      "Ima vrlo razvijen sluh.",
+      "Prilagođava se i životu u gradovima."
+    ]
+  },
+  {
+    "id": "medvjed",
+    "name": "Smeđi medvjed",
+    "emoji": "🐻",
+    "group": "Sisavac",
+    "habitat": "Šume i planine",
+    "diet": "Svejed",
+    "facts": [
+      "Zimi često provodi vrijeme u brlogu.",
+      "Može imati vrlo raznoliku prehranu."
+    ]
+  },
+  {
+    "id": "polarni-medvjed",
+    "name": "Polarni medvjed",
+    "emoji": "🐻‍❄️",
+    "group": "Sisavac",
+    "habitat": "Arktički morski led",
+    "diet": "Mesojed",
+    "facts": [
+      "Glavni plijen su mu tuljani.",
+      "Crna koža nalazi se ispod svijetlog krzna."
+    ]
+  },
+  {
+    "id": "panda",
+    "name": "Velika panda",
+    "emoji": "🐼",
+    "group": "Sisavac",
+    "habitat": "Planinske šume Kine",
+    "diet": "Biljojed",
+    "facts": [
+      "Većinu prehrane čini bambus.",
+      "Ima prilagođenu kost šake za držanje bambusa."
+    ]
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "emoji": "🐨",
+    "group": "Sisavac",
+    "habitat": "Australske šume eukaliptusa",
+    "diet": "Biljojed",
+    "facts": [
+      "Hrani se uglavnom lišćem eukaliptusa.",
+      "Većinu dana odmara ili spava."
+    ]
+  },
+  {
+    "id": "klokan",
+    "name": "Crveni klokan",
+    "emoji": "🦘",
+    "group": "Sisavac",
+    "habitat": "Australske ravnice",
+    "diet": "Biljojed",
+    "facts": [
+      "Kreće se dugim skokovima.",
+      "Mladunče se razvija u majčinu tobolcu."
+    ]
+  },
+  {
+    "id": "slon",
+    "name": "Afrički slon",
+    "emoji": "🐘",
+    "group": "Sisavac",
+    "habitat": "Afričke savane i šume",
+    "diet": "Biljojed",
+    "facts": [
+      "Surla služi za disanje, mirisanje i hvatanje.",
+      "Najveća je živuća kopnena životinja."
+    ]
+  },
+  {
+    "id": "zirafa",
+    "name": "Žirafa",
+    "emoji": "🦒",
+    "group": "Sisavac",
+    "habitat": "Afričke savane",
+    "diet": "Biljojed",
+    "facts": [
+      "Ima vrlo dug vrat i jezik.",
+      "Njezino srce snažno pumpa krv do glave."
+    ]
+  },
+  {
+    "id": "zebra",
+    "name": "Zebra",
+    "emoji": "🦓",
+    "group": "Sisavac",
+    "habitat": "Afričke travnate ravnice",
+    "diet": "Biljojed",
+    "facts": [
+      "Svaka zebra ima jedinstven raspored pruga.",
+      "Živi u društvenim skupinama."
+    ]
+  },
+  {
+    "id": "nosorog",
+    "name": "Bijeli nosorog",
+    "emoji": "🦏",
+    "group": "Sisavac",
+    "habitat": "Afričke travnate ravnice",
+    "diet": "Biljojed",
+    "facts": [
+      "Unatoč nazivu nije bijele boje.",
+      "Rogovi su građeni pretežno od keratina."
+    ]
+  },
+  {
+    "id": "nilski-konj",
+    "name": "Nilski konj",
+    "emoji": "🦛",
+    "group": "Sisavac",
+    "habitat": "Afričke rijeke i jezera",
+    "diet": "Biljojed",
+    "facts": [
+      "Dobar dio dana provodi u vodi.",
+      "Noću često izlazi na kopno radi paše."
+    ]
+  },
+  {
+    "id": "gorila",
+    "name": "Gorila",
+    "emoji": "🦍",
+    "group": "Sisavac",
+    "habitat": "Srednjoafričke šume",
+    "diet": "Pretežno biljojed",
+    "facts": [
+      "Živi u društvenim skupinama.",
+      "Najveći je živući primat."
+    ]
+  },
+  {
+    "id": "cimpanza",
+    "name": "Čimpanza",
+    "emoji": "🐒",
+    "group": "Sisavac",
+    "habitat": "Afričke tropske šume",
+    "diet": "Svejed",
+    "facts": [
+      "Koristi jednostavne alate.",
+      "Živi u složenim društvenim zajednicama."
+    ]
+  },
+  {
+    "id": "orangutan",
+    "name": "Orangutan",
+    "emoji": "🦧",
+    "group": "Sisavac",
+    "habitat": "Tropske šume Bornea i Sumatre",
+    "diet": "Pretežno biljojed",
+    "facts": [
+      "Većinu vremena provodi na drveću.",
+      "Ima izuzetno duge ruke."
+    ]
+  },
+  {
+    "id": "lemur",
+    "name": "Prstenastorepi lemur",
+    "emoji": "🐒",
+    "group": "Sisavac",
+    "habitat": "Madagaskar",
+    "diet": "Svejed",
+    "facts": [
+      "Ima rep s crno-bijelim prstenovima.",
+      "U skupinama često dominiraju ženke."
+    ]
+  },
+  {
+    "id": "lijenivac",
+    "name": "Troprsti ljenivac",
+    "emoji": "🦥",
+    "group": "Sisavac",
+    "habitat": "Tropske šume Amerike",
+    "diet": "Biljojed",
+    "facts": [
+      "Kreće se vrlo sporo.",
+      "Krzno mu može biti stanište algi."
+    ]
+  },
+  {
+    "id": "mungos",
+    "name": "Mungos",
+    "emoji": "🐾",
+    "group": "Sisavac",
+    "habitat": "Afrika i Azija",
+    "diet": "Mesojed",
+    "facts": [
+      "Brz je i okretan lovac.",
+      "Neke vrste žive u velikim skupinama."
+    ]
+  },
+  {
+    "id": "vidra",
+    "name": "Euroazijska vidra",
+    "emoji": "🦦",
+    "group": "Sisavac",
+    "habitat": "Rijeke i jezera Europe i Azije",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima gusto vodootporno krzno.",
+      "Hrani se uglavnom ribama."
+    ]
+  },
+  {
+    "id": "dabar",
+    "name": "Europski dabar",
+    "emoji": "🦫",
+    "group": "Sisavac",
+    "habitat": "Rijeke i močvare",
+    "diet": "Biljojed",
+    "facts": [
+      "Gradi brane i nastambe od granja.",
+      "Prednjim zubima glođe drvo."
+    ]
+  },
+  {
+    "id": "vjeverica",
+    "name": "Crvena vjeverica",
+    "emoji": "🐿️",
+    "group": "Sisavac",
+    "habitat": "Šume i parkovi",
+    "diet": "Svejed",
+    "facts": [
+      "Skuplja i skriva hranu.",
+      "Rep joj pomaže održavati ravnotežu."
+    ]
+  },
+  {
+    "id": "jez",
+    "name": "Europski jež",
+    "emoji": "🦔",
+    "group": "Sisavac",
+    "habitat": "Vrtovi, šume i livade",
+    "diet": "Svejed",
+    "facts": [
+      "Kada se uplaši može se sklupčati.",
+      "Bodlje su preobražene dlake."
+    ]
+  },
+  {
+    "id": "zec",
+    "name": "Europski zec",
+    "emoji": "🐇",
+    "group": "Sisavac",
+    "habitat": "Polja i livade",
+    "diet": "Biljojed",
+    "facts": [
+      "Ima duge stražnje noge.",
+      "Mladunci se rađaju obrasli krznom i otvorenih očiju."
+    ]
+  },
+  {
+    "id": "kunić",
+    "name": "Divlji kunić",
+    "emoji": "🐇",
+    "group": "Sisavac",
+    "habitat": "Travnjaci i otvorene šume",
+    "diet": "Biljojed",
+    "facts": [
+      "Kopa podzemne jazbine.",
+      "Živi u kolonijama."
+    ]
+  },
+  {
+    "id": "jelen",
+    "name": "Obični jelen",
+    "emoji": "🦌",
+    "group": "Sisavac",
+    "habitat": "Šume i planinske livade",
+    "diet": "Biljojed",
+    "facts": [
+      "Mužjaci svake godine obnavljaju rogove.",
+      "Tijekom rike mužjaci se glasaju snažnim zvukovima."
+    ]
+  },
+  {
+    "id": "srna",
+    "name": "Srna",
+    "emoji": "🦌",
+    "group": "Sisavac",
+    "habitat": "Šume i rubovi polja",
+    "diet": "Biljojed",
+    "facts": [
+      "Mala je vrsta jelena.",
+      "Ljeti ima crvenkastiju dlaku."
+    ]
+  },
+  {
+    "id": "los",
+    "name": "Los",
+    "emoji": "🫎",
+    "group": "Sisavac",
+    "habitat": "Sjeverne šume i močvare",
+    "diet": "Biljojed",
+    "facts": [
+      "Najveća je živuća vrsta jelena.",
+      "Dobar je plivač."
+    ]
+  },
+  {
+    "id": "divlja-svinja",
+    "name": "Divlja svinja",
+    "emoji": "🐗",
+    "group": "Sisavac",
+    "habitat": "Šume i šikare",
+    "diet": "Svejed",
+    "facts": [
+      "Rilom pretražuje tlo za hranom.",
+      "Živi u skupinama koje često čine ženke i mladi."
+    ]
+  },
+  {
+    "id": "ris",
+    "name": "Euroazijski ris",
+    "emoji": "🐈",
+    "group": "Sisavac",
+    "habitat": "Europske i azijske šume",
+    "diet": "Mesojed",
+    "facts": [
+      "Na ušima ima karakteristične čuperke.",
+      "Najveća je europska divlja mačka."
+    ]
+  },
+  {
+    "id": "sismis",
+    "name": "Šišmiš",
+    "emoji": "🦇",
+    "group": "Sisavac",
+    "habitat": "Špilje, šume i naselja",
+    "diet": "Najčešće kukcojed",
+    "facts": [
+      "Jedini je sisavac koji aktivno leti.",
+      "Mnoge vrste koriste eholokaciju."
+    ]
+  },
+  {
+    "id": "dupin",
+    "name": "Dobri dupin",
+    "emoji": "🐬",
+    "group": "Sisavac",
+    "habitat": "Mora i oceani",
+    "diet": "Mesojed",
+    "facts": [
+      "Diše zrak na površini mora.",
+      "Komunicira različitim zvukovima."
+    ]
+  },
+  {
+    "id": "kit",
+    "name": "Plavi kit",
+    "emoji": "🐋",
+    "group": "Sisavac",
+    "habitat": "Svjetski oceani",
+    "diet": "Mesojed",
+    "facts": [
+      "Najveća je poznata životinja.",
+      "Hrani se sitnim račićima krilom."
+    ]
+  },
+  {
+    "id": "orka",
+    "name": "Orka",
+    "emoji": "🐳",
+    "group": "Sisavac",
+    "habitat": "Svjetski oceani",
+    "diet": "Mesojed",
+    "facts": [
+      "Pripada porodici dupina.",
+      "Živi u društvenim skupinama."
+    ]
+  },
+  {
+    "id": "tuljan",
+    "name": "Obični tuljan",
+    "emoji": "🦭",
+    "group": "Sisavac",
+    "habitat": "Sjeverna obalna mora",
+    "diet": "Mesojed",
+    "facts": [
+      "Odličan je plivač.",
+      "Na kopnu se kreće nespretnije nego u vodi."
+    ]
+  },
+  {
+    "id": "morz",
+    "name": "Morž",
+    "emoji": "🦭",
+    "group": "Sisavac",
+    "habitat": "Arktička mora",
+    "diet": "Mesojed",
+    "facts": [
+      "Prepoznatljiv je po dugim kljovama.",
+      "Hrani se životinjama s morskog dna."
+    ]
+  },
+  {
+    "id": "pas",
+    "name": "Domaći pas",
+    "emoji": "🐕",
+    "group": "Sisavac",
+    "habitat": "Uz čovjeka diljem svijeta",
+    "diet": "Svejed",
+    "facts": [
+      "Pripitomljena je životinja s iznimnim njuhom.",
+      "Postoji mnogo pasmina različite veličine."
+    ]
+  },
+  {
+    "id": "mačka",
+    "name": "Domaća mačka",
+    "emoji": "🐈",
+    "group": "Sisavac",
+    "habitat": "Uz čovjeka diljem svijeta",
+    "diet": "Mesojed",
+    "facts": [
+      "Brkovi joj pomažu osjetiti okolinu.",
+      "Može izvoditi vrlo precizne skokove."
+    ]
+  },
+  {
+    "id": "konj",
+    "name": "Domaći konj",
+    "emoji": "🐎",
+    "group": "Sisavac",
+    "habitat": "Pašnjaci i uz čovjeka",
+    "diet": "Biljojed",
+    "facts": [
+      "Može spavati i stojeći.",
+      "Kopita su prilagodba za brzo trčanje."
+    ]
+  },
+  {
+    "id": "magarac",
+    "name": "Domaći magarac",
+    "emoji": "🫏",
+    "group": "Sisavac",
+    "habitat": "Pašnjaci i uz čovjeka",
+    "diet": "Biljojed",
+    "facts": [
+      "Ima duge i osjetljive uši.",
+      "Poznat je po glasanju koje zovemo revanje."
+    ]
+  },
+  {
+    "id": "krava",
+    "name": "Domaće govedo",
+    "emoji": "🐄",
+    "group": "Sisavac",
+    "habitat": "Farme i pašnjaci",
+    "diet": "Biljojed",
+    "facts": [
+      "Preživa hranu.",
+      "Ima složen želudac s više odjeljaka."
+    ]
+  },
+  {
+    "id": "svinja",
+    "name": "Domaća svinja",
+    "emoji": "🐖",
+    "group": "Sisavac",
+    "habitat": "Farme i uz čovjeka",
+    "diet": "Svejed",
+    "facts": [
+      "Ima vrlo razvijen njuh.",
+      "Voli se rashlađivati u blatu."
+    ]
+  },
+  {
+    "id": "ovca",
+    "name": "Domaća ovca",
+    "emoji": "🐑",
+    "group": "Sisavac",
+    "habitat": "Pašnjaci",
+    "diet": "Biljojed",
+    "facts": [
+      "Njezina se vuna koristi za tekstil.",
+      "Živi u stadima."
+    ]
+  },
+  {
+    "id": "koza",
+    "name": "Domaća koza",
+    "emoji": "🐐",
+    "group": "Sisavac",
+    "habitat": "Pašnjaci i brdoviti krajevi",
+    "diet": "Biljojed",
+    "facts": [
+      "Spretno se penje po strmim terenima.",
+      "Ima vodoravne zjenice."
+    ]
+  },
+  {
+    "id": "deva",
+    "name": "Jednogrba deva",
+    "emoji": "🐪",
+    "group": "Sisavac",
+    "habitat": "Pustinje i suha područja",
+    "diet": "Biljojed",
+    "facts": [
+      "U grbi pohranjuje mast, ne vodu.",
+      "Prilagođena je suši i vrućini."
+    ]
+  },
+  {
+    "id": "lama",
+    "name": "Lama",
+    "emoji": "🦙",
+    "group": "Sisavac",
+    "habitat": "Južnoamerički Andi",
+    "diet": "Biljojed",
+    "facts": [
+      "Srodna je devi.",
+      "Može pljuvati kad je uznemirena."
+    ]
+  },
+  {
+    "id": "alpaka",
+    "name": "Alpaka",
+    "emoji": "🦙",
+    "group": "Sisavac",
+    "habitat": "Andske visoravni",
+    "diet": "Biljojed",
+    "facts": [
+      "Uzgaja se zbog mekog vlakna.",
+      "Srodna je lami."
+    ]
+  },
+  {
+    "id": "mravojed",
+    "name": "Veliki mravojed",
+    "emoji": "🐾",
+    "group": "Sisavac",
+    "habitat": "Južnoamerički travnjaci",
+    "diet": "Kukcojed",
+    "facts": [
+      "Dugim jezikom hvata mrave i termite.",
+      "Nema zube."
+    ]
+  },
+  {
+    "id": "armadilo",
+    "name": "Devetopojasni oklopnik",
+    "emoji": "🐾",
+    "group": "Sisavac",
+    "habitat": "Američki travnjaci i šume",
+    "diet": "Svejed",
+    "facts": [
+      "Ima koštani oklop prekriven ljuskama.",
+      "Kopa tlo snažnim kandžama."
+    ]
+  },
+  {
+    "id": "rakun",
+    "name": "Rakun",
+    "emoji": "🦝",
+    "group": "Sisavac",
+    "habitat": "Sjevernoameričke šume i gradovi",
+    "diet": "Svejed",
+    "facts": [
+      "Prednjim šapama vrlo spretno barata hranom.",
+      "Često je aktivan noću."
+    ]
+  },
+  {
+    "id": "tvor",
+    "name": "Europski tvor",
+    "emoji": "🦨",
+    "group": "Sisavac",
+    "habitat": "Livade i rubovi šuma",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima mirisne žlijezde za obranu.",
+      "Najčešće je aktivan noću."
+    ]
+  },
+  {
+    "id": "pingvin",
+    "name": "Carski pingvin",
+    "emoji": "🐧",
+    "group": "Ptica",
+    "habitat": "Antarktički morski led",
+    "diet": "Mesojed",
+    "facts": [
+      "Najveća je vrsta pingvina.",
+      "Mužjak čuva jaje na nogama tijekom zime."
+    ]
+  },
+  {
+    "id": "noj",
+    "name": "Afrički noj",
+    "emoji": "🐦",
+    "group": "Ptica",
+    "habitat": "Afričke savane",
+    "diet": "Svejed",
+    "facts": [
+      "Najveća je živuća ptica.",
+      "Ne može letjeti, ali vrlo brzo trči."
+    ]
+  },
+  {
+    "id": "orao",
+    "name": "Suri orao",
+    "emoji": "🦅",
+    "group": "Ptica",
+    "habitat": "Planine i otvorena područja",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima izvrstan vid.",
+      "Može loviti sisavce i ptice."
+    ]
+  },
+  {
+    "id": "sokol",
+    "name": "Sivi sokol",
+    "emoji": "🦅",
+    "group": "Ptica",
+    "habitat": "Litice i gradovi",
+    "diet": "Mesojed",
+    "facts": [
+      "U obrušavanju je iznimno brz.",
+      "Plijen često hvata u letu."
+    ]
+  },
+  {
+    "id": "sova",
+    "name": "Sova ušara",
+    "emoji": "🦉",
+    "group": "Ptica",
+    "habitat": "Šume i otvorena područja",
+    "diet": "Mesojed",
+    "facts": [
+      "Leti vrlo tiho.",
+      "Lov uglavnom obavlja noću."
+    ]
+  },
+  {
+    "id": "gavran",
+    "name": "Gavran",
+    "emoji": "🐦‍⬛",
+    "group": "Ptica",
+    "habitat": "Šume, planine i obale",
+    "diet": "Svejed",
+    "facts": [
+      "Vrlo je inteligentna ptica.",
+      "Može oponašati razne zvukove."
+    ]
+  },
+  {
+    "id": "vrana",
+    "name": "Siva vrana",
+    "emoji": "🐦‍⬛",
+    "group": "Ptica",
+    "habitat": "Gradovi, polja i šume",
+    "diet": "Svejed",
+    "facts": [
+      "Snalazi se u različitim staništima.",
+      "Sposobna je rješavati složene zadatke."
+    ]
+  },
+  {
+    "id": "vrabac",
+    "name": "Vrabac pokućar",
+    "emoji": "🐦",
+    "group": "Ptica",
+    "habitat": "Naselja i polja",
+    "diet": "Svejed",
+    "facts": [
+      "Često živi blizu ljudi.",
+      "Hrani se sjemenkama i kukcima."
+    ]
+  },
+  {
+    "id": "golub",
+    "name": "Gradski golub",
+    "emoji": "🕊️",
+    "group": "Ptica",
+    "habitat": "Gradovi i litice",
+    "diet": "Biljojed",
+    "facts": [
+      "Ima dobar osjećaj za orijentaciju.",
+      "Potječe od divljeg goluba pećinara."
+    ]
+  },
+  {
+    "id": "lastavica",
+    "name": "Seoska lastavica",
+    "emoji": "🐦",
+    "group": "Ptica",
+    "habitat": "Sela i otvoreni krajolici",
+    "diet": "Kukcojed",
+    "facts": [
+      "Kukce hvata u letu.",
+      "Seli se između Europe i Afrike."
+    ]
+  },
+  {
+    "id": "roda",
+    "name": "Bijela roda",
+    "emoji": "🪽",
+    "group": "Ptica",
+    "habitat": "Močvare i polja",
+    "diet": "Mesojed",
+    "facts": [
+      "Gradi velika gnijezda na visokim mjestima.",
+      "Često se vraća na isto gnijezdo."
+    ]
+  },
+  {
+    "id": "flamingo",
+    "name": "Ružičasti plamenac",
+    "emoji": "🦩",
+    "group": "Ptica",
+    "habitat": "Plitke slane vode",
+    "diet": "Svejed",
+    "facts": [
+      "Ružičastu boju dobiva iz hrane.",
+      "Hranu filtrira posebnim kljunom."
+    ]
+  },
+  {
+    "id": "papiga",
+    "name": "Siva papiga žako",
+    "emoji": "🦜",
+    "group": "Ptica",
+    "habitat": "Tropske šume Afrike",
+    "diet": "Biljojed",
+    "facts": [
+      "Može oponašati ljudski govor.",
+      "Poznata je po inteligenciji."
+    ]
+  },
+  {
+    "id": "tukan",
+    "name": "Veliki tukan",
+    "emoji": "🐦",
+    "group": "Ptica",
+    "habitat": "Južnoameričke tropske šume",
+    "diet": "Svejed",
+    "facts": [
+      "Ima iznimno velik i lagan kljun.",
+      "Pretežno jede voće."
+    ]
+  },
+  {
+    "id": "paun",
+    "name": "Indijski paun",
+    "emoji": "🦚",
+    "group": "Ptica",
+    "habitat": "Šume i parkovi",
+    "diet": "Svejed",
+    "facts": [
+      "Mužjak ima raskošno perje.",
+      "Širi repno perje tijekom udvaranja."
+    ]
+  },
+  {
+    "id": "labud",
+    "name": "Crvenokljuni labud",
+    "emoji": "🦢",
+    "group": "Ptica",
+    "habitat": "Jezera i mirne rijeke",
+    "diet": "Biljojed",
+    "facts": [
+      "Ima dug vrat.",
+      "Često stvara dugotrajne parove."
+    ]
+  },
+  {
+    "id": "patka",
+    "name": "Divlja patka",
+    "emoji": "🦆",
+    "group": "Ptica",
+    "habitat": "Jezera, rijeke i močvare",
+    "diet": "Svejed",
+    "facts": [
+      "Mužjak ima zelenkastu glavu.",
+      "Često hranu traži u plitkoj vodi."
+    ]
+  },
+  {
+    "id": "guska",
+    "name": "Siva guska",
+    "emoji": "🪿",
+    "group": "Ptica",
+    "habitat": "Močvare i travnjaci",
+    "diet": "Biljojed",
+    "facts": [
+      "Često leti u skupinama u obliku slova V.",
+      "Praroditelj je mnogih domaćih gusaka."
+    ]
+  },
+  {
+    "id": "kokoš",
+    "name": "Domaća kokoš",
+    "emoji": "🐔",
+    "group": "Ptica",
+    "habitat": "Farme i dvorišta",
+    "diet": "Svejed",
+    "facts": [
+      "Snese jaja s tvrdom ljuskom.",
+      "Potječe od azijskih divljih kokoši."
+    ]
+  },
+  {
+    "id": "pijetao",
+    "name": "Domaći pijetao",
+    "emoji": "🐓",
+    "group": "Ptica",
+    "habitat": "Farme i dvorišta",
+    "diet": "Svejed",
+    "facts": [
+      "Mužjak je domaće kokoši.",
+      "Glasa se karakterističnim kukurikanjem."
+    ]
+  },
+  {
+    "id": "pelikun",
+    "name": "Bijeli pelikan",
+    "emoji": "🦢",
+    "group": "Ptica",
+    "habitat": "Velika jezera i močvare",
+    "diet": "Mesojed",
+    "facts": [
+      "Ispod kljuna ima veliku kožnu vreću.",
+      "Hrani se pretežno ribom."
+    ]
+  },
+  {
+    "id": "kolibri",
+    "name": "Kolibri",
+    "emoji": "🐦",
+    "group": "Ptica",
+    "habitat": "Američke šume i vrtovi",
+    "diet": "Svejed",
+    "facts": [
+      "Može lebdjeti na mjestu.",
+      "Krila pomiče iznimno brzo."
+    ]
+  },
+  {
+    "id": "djetlic",
+    "name": "Veliki djetlić",
+    "emoji": "🐦",
+    "group": "Ptica",
+    "habitat": "Šume i parkovi",
+    "diet": "Svejed",
+    "facts": [
+      "Kljunom udara po drvetu.",
+      "Dugim jezikom hvata kukce."
+    ]
+  },
+  {
+    "id": "zmija",
+    "name": "Bjelouška",
+    "emoji": "🐍",
+    "group": "Gmaz",
+    "habitat": "Vlažna staništa Europe",
+    "diet": "Mesojed",
+    "facts": [
+      "Nije otrovna za ljude.",
+      "Vrlo dobro pliva."
+    ]
+  },
+  {
+    "id": "kobra",
+    "name": "Indijska kobra",
+    "emoji": "🐍",
+    "group": "Gmaz",
+    "habitat": "Južnoazijske šume i polja",
+    "diet": "Mesojed",
+    "facts": [
+      "Može raširiti vrat u karakterističnu kapuljaču.",
+      "Posjeduje otrovne zube."
+    ]
+  },
+  {
+    "id": "piton",
+    "name": "Mrežasti piton",
+    "emoji": "🐍",
+    "group": "Gmaz",
+    "habitat": "Tropske šume jugoistočne Azije",
+    "diet": "Mesojed",
+    "facts": [
+      "Plijen usmrćuje stezanjem.",
+      "Jedna je od najduljih zmija."
+    ]
+  },
+  {
+    "id": "anakonda",
+    "name": "Zelena anakonda",
+    "emoji": "🐍",
+    "group": "Gmaz",
+    "habitat": "Južnoameričke rijeke i močvare",
+    "diet": "Mesojed",
+    "facts": [
+      "Među najtežim je zmijama.",
+      "Velik dio života provodi u vodi."
+    ]
+  },
+  {
+    "id": "krokodil",
+    "name": "Nilski krokodil",
+    "emoji": "🐊",
+    "group": "Gmaz",
+    "habitat": "Afričke rijeke i jezera",
+    "diet": "Mesojed",
+    "facts": [
+      "Oči i nosnice nalaze mu se pri vrhu glave.",
+      "Ima snažan ugriz."
+    ]
+  },
+  {
+    "id": "aligator",
+    "name": "Američki aligator",
+    "emoji": "🐊",
+    "group": "Gmaz",
+    "habitat": "Močvare jugoistoka SAD-a",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima širu i zaobljeniju njušku od mnogih krokodila.",
+      "Živi uglavnom u slatkoj vodi."
+    ]
+  },
+  {
+    "id": "komodski-varan",
+    "name": "Komodski varan",
+    "emoji": "🦎",
+    "group": "Gmaz",
+    "habitat": "Indonezijski otoci",
+    "diet": "Mesojed",
+    "facts": [
+      "Najveći je živući gušter.",
+      "Ima otrovne žlijezde koje pomažu pri lovu."
+    ]
+  },
+  {
+    "id": "kameleon",
+    "name": "Kameleon",
+    "emoji": "🦎",
+    "group": "Gmaz",
+    "habitat": "Topla šumska i grmolika područja",
+    "diet": "Kukcojed",
+    "facts": [
+      "Oči može pomicati neovisno.",
+      "Boju mijenja i radi komunikacije."
+    ]
+  },
+  {
+    "id": "iguana",
+    "name": "Zelena iguana",
+    "emoji": "🦎",
+    "group": "Gmaz",
+    "habitat": "Tropska Amerika",
+    "diet": "Biljojed",
+    "facts": [
+      "Dobar je penjač i plivač.",
+      "Ima kožni nabor ispod vrata."
+    ]
+  },
+  {
+    "id": "kornjaca",
+    "name": "Grčka čančara",
+    "emoji": "🐢",
+    "group": "Gmaz",
+    "habitat": "Sredozemni travnjaci i grmlje",
+    "diet": "Biljojed",
+    "facts": [
+      "Ima čvrst koštani oklop.",
+      "Može živjeti desetljećima."
+    ]
+  },
+  {
+    "id": "morska-kornjaca",
+    "name": "Zelena morska kornjača",
+    "emoji": "🐢",
+    "group": "Gmaz",
+    "habitat": "Tropska i suptropska mora",
+    "diet": "Pretežno biljojed",
+    "facts": [
+      "Ženke polažu jaja na plažama.",
+      "Može prelaziti velike udaljenosti kroz ocean."
+    ]
+  },
+  {
+    "id": "zaba",
+    "name": "Zelena žaba",
+    "emoji": "🐸",
+    "group": "Vodozemac",
+    "habitat": "Bare i jezera",
+    "diet": "Mesojed",
+    "facts": [
+      "Život započinje kao punoglavac.",
+      "Diše plućima i kroz kožu."
+    ]
+  },
+  {
+    "id": "gubavica",
+    "name": "Obična krastača",
+    "emoji": "🐸",
+    "group": "Vodozemac",
+    "habitat": "Vrtovi, šume i polja",
+    "diet": "Mesojed",
+    "facts": [
+      "Koža joj je suha i kvrgava.",
+      "Hrani se puževima i kukcima."
+    ]
+  },
+  {
+    "id": "dazdevnjak",
+    "name": "Pjegavi daždevnjak",
+    "emoji": "🦎",
+    "group": "Vodozemac",
+    "habitat": "Vlažne šume Europe",
+    "diet": "Mesojed",
+    "facts": [
+      "Crno-žuta boja upozorava na obranu.",
+      "Aktivan je uglavnom pri vlažnom vremenu."
+    ]
+  },
+  {
+    "id": "aksolotl",
+    "name": "Aksolotl",
+    "emoji": "🦎",
+    "group": "Vodozemac",
+    "habitat": "Jezera oko Ciudad de Méxica",
+    "diet": "Mesojed",
+    "facts": [
+      "Odrasla jedinka zadržava vanjske škrge.",
+      "Može obnoviti izgubljene udove."
+    ]
+  },
+  {
+    "id": "morski-pas",
+    "name": "Veliki bijeli morski pas",
+    "emoji": "🦈",
+    "group": "Riba",
+    "habitat": "Umjerena obalna mora",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima više redova zuba.",
+      "Kostur mu je građen od hrskavice."
+    ]
+  },
+  {
+    "id": "morski-konjic",
+    "name": "Morski konjic",
+    "emoji": "🐠",
+    "group": "Riba",
+    "habitat": "Plitka obalna mora",
+    "diet": "Mesojed",
+    "facts": [
+      "Mužjak nosi jaja u posebnoj vrećici.",
+      "Pliva uspravno."
+    ]
+  },
+  {
+    "id": "klaun-riba",
+    "name": "Riba klaun",
+    "emoji": "🐠",
+    "group": "Riba",
+    "habitat": "Koraljni grebeni",
+    "diet": "Svejed",
+    "facts": [
+      "Živi među lovkama moruzgvi.",
+      "Zaštićena je posebnom sluzi."
+    ]
+  },
+  {
+    "id": "tuna",
+    "name": "Plavoperajna tuna",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Otvoreno more",
+    "diet": "Mesojed",
+    "facts": [
+      "Snažan je i brz plivač.",
+      "Može prelaziti velike udaljenosti."
+    ]
+  },
+  {
+    "id": "losos",
+    "name": "Atlantski losos",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Rijeke i sjeverni Atlantik",
+    "diet": "Mesojed",
+    "facts": [
+      "Mrijesti se u slatkoj vodi.",
+      "Mnoge jedinke žive dio života u moru."
+    ]
+  },
+  {
+    "id": "pastrva",
+    "name": "Potočna pastrva",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Hladne rijeke i potoci",
+    "diet": "Mesojed",
+    "facts": [
+      "Voli čistu i hladnu vodu.",
+      "Često ima tamne i crvene pjege."
+    ]
+  },
+  {
+    "id": "saran",
+    "name": "Šaran",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Jezera i spore rijeke",
+    "diet": "Svejed",
+    "facts": [
+      "Hranu često traži pri dnu.",
+      "Ima ticala uz usta."
+    ]
+  },
+  {
+    "id": "som",
+    "name": "Europski som",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Velike europske rijeke i jezera",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima duga ticala oko usta.",
+      "Može narasti do vrlo velikih dimenzija."
+    ]
+  },
+  {
+    "id": "stuka",
+    "name": "Štuka",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Jezera i mirne rijeke",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima izduženo tijelo i oštre zube.",
+      "Plijen često napada iz zasjede."
+    ]
+  },
+  {
+    "id": "ugor",
+    "name": "Ugor",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Stjenovito morsko dno",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima izduženo tijelo nalik zmiji.",
+      "Često se skriva u pukotinama."
+    ]
+  },
+  {
+    "id": "srdela",
+    "name": "Srdela",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Jadransko i druga mora",
+    "diet": "Planktonojed",
+    "facts": [
+      "Živi u velikim jatima.",
+      "Važna je riba Jadranskog mora."
+    ]
+  },
+  {
+    "id": "incun",
+    "name": "Inćun",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Obalna mora",
+    "diet": "Planktonojed",
+    "facts": [
+      "Malen je i vitak.",
+      "Često živi u gustim jatima."
+    ]
+  },
+  {
+    "id": "napoleon-riba",
+    "name": "Napoleon riba",
+    "emoji": "🐠",
+    "group": "Riba",
+    "habitat": "Indopacifički koraljni grebeni",
+    "diet": "Mesojed",
+    "facts": [
+      "Velika je grebenska riba.",
+      "Odrasle jedinke imaju izraženu izbočinu na čelu."
+    ]
+  },
+  {
+    "id": "napuhaca",
+    "name": "Riba napuhača",
+    "emoji": "🐡",
+    "group": "Riba",
+    "habitat": "Topla i umjerena mora",
+    "diet": "Svejed",
+    "facts": [
+      "Može napuhati tijelo vodom.",
+      "Neke vrste sadrže snažan otrov."
+    ]
+  },
+  {
+    "id": "raza",
+    "name": "Manta raža",
+    "emoji": "🐟",
+    "group": "Riba",
+    "habitat": "Tropska i suptropska mora",
+    "diet": "Planktonojed",
+    "facts": [
+      "Ima golema prsna peraja nalik krilima.",
+      "Hrani se filtriranjem planktona."
+    ]
+  },
+  {
+    "id": "meduza",
+    "name": "Mjesečeva meduza",
+    "emoji": "🪼",
+    "group": "Beskralježnjak",
+    "habitat": "Obalna mora",
+    "diet": "Mesojed",
+    "facts": [
+      "Tijelo joj je uglavnom voda.",
+      "Kreće se stezanjem zvona."
+    ]
+  },
+  {
+    "id": "hobotnica",
+    "name": "Obična hobotnica",
+    "emoji": "🐙",
+    "group": "Beskralježnjak",
+    "habitat": "Stjenovito morsko dno",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima osam krakova i tri srca.",
+      "Može brzo mijenjati boju i teksturu kože."
+    ]
+  },
+  {
+    "id": "lignja",
+    "name": "Obična lignja",
+    "emoji": "🦑",
+    "group": "Beskralježnjak",
+    "habitat": "Mora",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima deset krakova, od kojih su dva dulja.",
+      "Za obranu može ispustiti tintu."
+    ]
+  },
+  {
+    "id": "sipa",
+    "name": "Obična sipa",
+    "emoji": "🦑",
+    "group": "Beskralježnjak",
+    "habitat": "Plitko morsko dno",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima unutarnju sipinu kost.",
+      "Može prilagođavati boje i uzorke kože."
+    ]
+  },
+  {
+    "id": "rak",
+    "name": "Riječni rak",
+    "emoji": "🦞",
+    "group": "Beskralježnjak",
+    "habitat": "Slatke vode",
+    "diet": "Svejed",
+    "facts": [
+      "Ima kliješta i tvrdi vanjski oklop.",
+      "Za rast mora presvući oklop."
+    ]
+  },
+  {
+    "id": "crveni-rak",
+    "name": "Morski rak",
+    "emoji": "🦀",
+    "group": "Beskralježnjak",
+    "habitat": "Morska obala i dno",
+    "diet": "Svejed",
+    "facts": [
+      "Hoda i bočno.",
+      "Ima čvrst vanjski oklop."
+    ]
+  },
+  {
+    "id": "kojic",
+    "name": "Jastog",
+    "emoji": "🦞",
+    "group": "Beskralježnjak",
+    "habitat": "Stjenovito morsko dno",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima velika kliješta.",
+      "Dugovječan je među rakovima."
+    ]
+  },
+  {
+    "id": "skoljka",
+    "name": "Dagnja",
+    "emoji": "🦪",
+    "group": "Beskralježnjak",
+    "habitat": "Obalna morska voda",
+    "diet": "Planktonojed",
+    "facts": [
+      "Ima dvije ljušture.",
+      "Hrani se filtriranjem vode."
+    ]
+  },
+  {
+    "id": "morska-zvijezda",
+    "name": "Morska zvijezda",
+    "emoji": "⭐",
+    "group": "Beskralježnjak",
+    "habitat": "Morsko dno",
+    "diet": "Mesojed",
+    "facts": [
+      "Većina vrsta ima pet krakova.",
+      "Može obnoviti oštećeni krak."
+    ]
+  },
+  {
+    "id": "morski-jez",
+    "name": "Morski ježinac",
+    "emoji": "🦔",
+    "group": "Beskralježnjak",
+    "habitat": "Stjenovito morsko dno",
+    "diet": "Pretežno biljojed",
+    "facts": [
+      "Tijelo mu je prekriveno bodljama.",
+      "Ima posebne strukture za kretanje."
+    ]
+  },
+  {
+    "id": "puž",
+    "name": "Vinogradni puž",
+    "emoji": "🐌",
+    "group": "Beskralježnjak",
+    "habitat": "Vlažni vrtovi i livade",
+    "diet": "Biljojed",
+    "facts": [
+      "Na leđima nosi spiralnu kućicu.",
+      "Kreće se mišićavim stopalom."
+    ]
+  },
+  {
+    "id": "glista",
+    "name": "Kišna glista",
+    "emoji": "🪱",
+    "group": "Beskralježnjak",
+    "habitat": "Vlažno tlo",
+    "diet": "Detritivor",
+    "facts": [
+      "Pomaže prozračivati tlo.",
+      "Hrani se organskim ostacima."
+    ]
+  },
+  {
+    "id": "pauk",
+    "name": "Pauk križar",
+    "emoji": "🕷️",
+    "group": "Paučnjak",
+    "habitat": "Vrtovi i šume",
+    "diet": "Mesojed",
+    "facts": [
+      "Plete kružne mreže.",
+      "Ima osam nogu."
+    ]
+  },
+  {
+    "id": "skorpion",
+    "name": "Škorpion",
+    "emoji": "🦂",
+    "group": "Paučnjak",
+    "habitat": "Topla i suha staništa",
+    "diet": "Mesojed",
+    "facts": [
+      "Ima osam nogu i kliješta.",
+      "Na repu ima žalac s otrovom."
+    ]
+  },
+  {
+    "id": "leptir",
+    "name": "Monarh leptir",
+    "emoji": "🦋",
+    "group": "Kukac",
+    "habitat": "Sjeverna Amerika",
+    "diet": "Biljojed",
+    "facts": [
+      "Poznat je po dugim migracijama.",
+      "Gusjenice se hrane mlječikom."
+    ]
+  },
+  {
+    "id": "pcela",
+    "name": "Medonosna pčela",
+    "emoji": "🐝",
+    "group": "Kukac",
+    "habitat": "Livade, vrtovi i košnice",
+    "diet": "Biljojed",
+    "facts": [
+      "Skuplja nektar i pelud.",
+      "Plesom može drugim pčelama pokazati smjer hrane."
+    ]
+  },
+  {
+    "id": "bumbara",
+    "name": "Bumbar",
+    "emoji": "🐝",
+    "group": "Kukac",
+    "habitat": "Livade i vrtovi",
+    "diet": "Biljojed",
+    "facts": [
+      "Gusto je dlakav i važan oprašivač.",
+      "Može letjeti i po hladnijem vremenu."
+    ]
+  },
+  {
+    "id": "mrav",
+    "name": "Mrav",
+    "emoji": "🐜",
+    "group": "Kukac",
+    "habitat": "Šume, tlo i vrtovi",
+    "diet": "Svejed",
+    "facts": [
+      "Živi u organiziranim kolonijama.",
+      "Komunicira kemijskim tragovima."
+    ]
+  },
+  {
+    "id": "komarac",
+    "name": "Komarac",
+    "emoji": "🦟",
+    "group": "Kukac",
+    "habitat": "Vlažna područja",
+    "diet": "Raznolika",
+    "facts": [
+      "Samo ženke mnogih vrsta sišu krv.",
+      "Ličinke se često razvijaju u vodi."
+    ]
+  },
+  {
+    "id": "muha",
+    "name": "Kućna muha",
+    "emoji": "🪰",
+    "group": "Kukac",
+    "habitat": "Naselja i farme",
+    "diet": "Svejed",
+    "facts": [
+      "Oči su joj sastavljene od mnogo sitnih jedinica.",
+      "Okus može osjetiti i preko stopala."
+    ]
+  },
+  {
+    "id": "bubamara",
+    "name": "Sedmotočkasta bubamara",
+    "emoji": "🐞",
+    "group": "Kukac",
+    "habitat": "Vrtovi i livade",
+    "diet": "Mesojed",
+    "facts": [
+      "Hrani se lisnim ušima.",
+      "Ima prepoznatljive crne točkice."
+    ]
+  },
+  {
+    "id": "vilin-konjic",
+    "name": "Vilin konjic",
+    "emoji": "🪰",
+    "group": "Kukac",
+    "habitat": "Uz bare i rijeke",
+    "diet": "Mesojed",
+    "facts": [
+      "Odrasle jedinke love u letu.",
+      "Ličinke žive u vodi."
+    ]
+  },
+  {
+    "id": "skakavac",
+    "name": "Skakavac",
+    "emoji": "🦗",
+    "group": "Kukac",
+    "habitat": "Livade i travnjaci",
+    "diet": "Biljojed",
+    "facts": [
+      "Stražnje noge prilagođene su skakanju.",
+      "Glasanje često stvara trljanjem dijelova tijela."
+    ]
+  },
+  {
+    "id": "bogomoljka",
+    "name": "Bogomoljka",
+    "emoji": "🦗",
+    "group": "Kukac",
+    "habitat": "Vrtovi i travnjaci",
+    "diet": "Mesojed",
+    "facts": [
+      "Prednje noge koristi za hvatanje plijena.",
+      "Može zakretati glavu."
+    ]
+  },
+  {
+    "id": "kornjas",
+    "name": "Jelenak",
+    "emoji": "🪲",
+    "group": "Kukac",
+    "habitat": "Listopadne šume",
+    "diet": "Biljojed",
+    "facts": [
+      "Mužjak ima velike čeljusti nalik rogovima.",
+      "Ličinke rastu u trulom drvu."
+    ]
+  },
+  {
+    "id": "svitac",
+    "name": "Krijesnica",
+    "emoji": "✨",
+    "group": "Kukac",
+    "habitat": "Vlažne livade i šume",
+    "diet": "Mesojed",
+    "facts": [
+      "Svijetli zahvaljujući bioluminiscenciji.",
+      "Svjetlosnim signalima traži partnera."
+    ]
+  }
+]
