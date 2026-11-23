@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#122f2b" />
+  <meta name="description" content="Pogodi životinju! Besplatna online igra za dvoje s preko 130 životinja i njihovim zanimljivostima." />
+  <title>Pogodi životinju — Igra za dvoje</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="app-wrap">
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Pogodi životinju, početna">
+        <span class="brand-symbol" aria-hidden="true">✳</span>
+        <span>divlja<span class="brand-dot">.</span>igra</span>
+      </a>
+      <div class="header-right"><span class="header-tag"><span class="live-dot"></span> IGRA ZA DVOJE</span><span class="header-sparkle">✦</span></div>
+    </header>
+
+    <main id="landing" class="landing">
+      <section class="landing-hero" aria-labelledby="hero-title">
+        <div class="eyebrow"><span class="eyebrow-line"></span> MALA IGRA, VELIKO POGAĐANJE</div>
+        <h1 id="hero-title">Koju životinju<br /><span class="title-light">imam</span> <span class="title-accent">na umu?</span></h1>
+        <p class="hero-copy">Ti i tvoja bolja polovica. Dvije tajne životinje. Puno pametnih pitanja. Tko će prvi pogoditi?</p>
+        <div class="hero-mascots" aria-hidden="true">
+          <div class="mascot mascot-fox"><span>🦊</span><small>Hmm...</small></div>
+          <div class="mascot mascot-panda"><span>🐼</span><small>To je to!</small></div>
+          <div class="mascot mascot-octopus"><span>🐙</span><small>Možda?</small></div>
+        </div>
+        <div class="intro-steps">
+          <div><span class="step-num">01</span> Napravi sobu</div>
+          <span class="step-divider" aria-hidden="true">/</span>
+          <div><span class="step-num">02</span> Odaberi životinju</div>
+          <span class="step-divider" aria-hidden="true">/</span>
+          <div><span class="step-num">03</span> Pogodi prva/i!</div>
+        </div>
+      </section>
+
+      <section class="entry-card" aria-labelledby="entry-title">
+        <div class="entry-flourish" aria-hidden="true">✧</div>
+        <div class="entry-heading"><span class="card-kicker">SPREMNI ZA IGRU?</span><h2 id="entry-title">Idemo u divljinu<span class="punctuation">.</span></h2><p>Samo vas dvoje. Bez registracije i kompliciranja.</p></div>
+        <div class="entry-tabs" role="tablist" aria-label="Način ulaska">
+          <button class="entry-tab active" type="button" id="tab-create" role="tab" aria-selected="true">✦ Nova soba</button>
+          <button class="entry-tab" type="button" id="tab-join" role="tab" aria-selected="false">⌁ Uđi s kodom</button>
+        </div>
+        <form id="entry-form" autocomplete="off">
+          <label class="field-label" for="nickname">KAKO DA TE ZOVEMO?</label>
+          <input class="text-input" id="nickname" name="nickname" maxlength="24" placeholder="Upiši svoje ime..." required minlength="2" />
+          <div id="join-field" hidden>
+            <label class="field-label" for="join-code">KOD SOBE</label>
+            <input class="text-input code-input" id="join-code" name="code" maxlength="6" placeholder="Npr. K7HT3M" autocapitalize="characters" spellcheck="false" />
+          </div>
+          <button class="primary-btn entry-submit" id="entry-submit" type="submit"><span id="entry-submit-label">Napravi sobu</span><span class="btn-arrow">↗</span></button>
+        </form>
+        <div class="entry-bottom"><span class="entry-check">✓</span> Besplatno <span>·</span> 134 životinje <span>·</span> Igra uživo</div>
+      </section>
+    </main>
+
+    <main id="game" class="game" hidden>
+      <section class="game-topline">
+        <div class="game-title-block"><span class="section-kicker">VRIJEME JE ZA POGAĐANJE</span><h1>Pogodi životinju<span class="punctuation">.</span></h1><p id="phase-explainer">Odaberite svoje tajne životinje.</p></div>
+        <div class="room-controls">
+          <div class="room-code-card"><span>VAŠA PRIVATNA SOBA</span><strong id="room-code">------</strong></div>
+          <button type="button" class="copy-btn" id="copy-link" title="Kopiraj pozivni link"><span>🔗</span><span>Pošalji link</span></button>
+          <button type="button" class="icon-btn leave-btn" id="leave-room" aria-label="Napusti sobu" title="Napusti sobu">↪</button>
+        </div>
+      </section>
+      <div class="game-layout">
+        <aside class="left-column">
+          <section class="panel players-panel">
+            <div class="section-heading"><span class="mini-icon">◉</span><h2>Vaš duel</h2><span class="round-badge" id="round-label">RUNDA 01</span></div>
+            <div id="players" class="players-list"></div>
+            <div class="players-caption" id="players-caption">Čeka se drugi igrač...</div>
+          </section>
+          <section class="panel animal-panel">
+            <div class="section-heading"><span class="mini-icon">✿</span><h2>Moja životinja</h2><span class="secret-tag">🔒 TAJNO</span></div>
+            <div id="choose-section">
+              <div class="choose-illustration" aria-hidden="true"><span>❔</span></div>
+              <h3>Što skrivaš?</h3>
+              <p class="muted">Odaberi životinju. Njezine činjenice vidiš samo ti, ne i druga osoba.</p>
+              <div class="picker" id="choose-picker">
+                <label class="field-label" for="choose-search">TRAŽI ŽIVOTINJU</label>
+                <input class="text-input picker-input" id="choose-search" placeholder="Npr. lav, dupin, panda..." autocomplete="off" aria-autocomplete="list" aria-expanded="false" />
+                <div class="picker-results" id="choose-results" role="listbox" hidden></div>
+              </div>
+              <button type="button" class="primary-btn choose-btn" id="choose-submit" disabled>To je moja životinja <span>↗</span></button>
+              <p class="choose-note">Odabir se zaključava do sljedeće runde.</p>
+            </div>
+            <div id="facts-section" hidden>
+              <div class="chosen-hero"><div class="chosen-emoji" id="animal-emoji">🦊</div><div><span class="chosen-caption">TVOJ TAJNI ODABIR</span><h3 id="animal-name">Lisica</h3><span class="animal-group-pill" id="animal-group">Sisavac</span></div></div>
+              <div class="facts-grid"><div class="fact-tile"><span>⌂ STANIŠTE</span><strong id="fact-habitat"></strong></div><div class="fact-tile"><span>✧ PREHRANA</span><strong id="fact-diet"></strong></div></div>
+              <h4 class="facts-heading">Dobro je znati <span>✳</span></h4>
+              <ul class="facts-list" id="fact-list"></ul>
+              <div class="fact-helper">💡 Koristi ove činjenice da odgovaraš točno na pitanja.</div>
+            </div>
+          </section>
+        </aside>
+        <section class="right-column panel chat-panel">
+          <div class="chat-header"><div><div class="chat-kicker"><span class="live-dot"></span> UŽIVO U VAŠOJ SOBI</div><h2>Razgovarajte i pogađajte<span class="punctuation">.</span></h2></div><span id="phase-pill" class="phase-pill">PRIPREMA</span></div>
+          <div class="chat-body" id="chat-messages" role="log" aria-live="polite" aria-relevant="additions text"><div class="empty-chat"><span>💬</span><strong>Ovdje počinje vaša priča.</strong><p>Pošaljite prvo pitanje!</p></div></div>
+          <div id="winner-panel" class="winner-panel" hidden>
+            <div class="winner-confetti">🎉</div><h3 id="winner-title">Pobjednik!</h3><p id="winner-description"></p><button type="button" class="primary-btn" id="play-again">Igraj novu rundu <span>↗</span></button>
+          </div>
+          <div id="question-chips" class="question-chips"><span>BRZO PITANJE:</span><button type="button" data-text="Je li sisavac?">Je li sisavac?</button><button type="button" data-text="Živi li u vodi?">Živi li u vodi?</button><button type="button" data-text="Može li letjeti?">Može li letjeti?</button></div>
+          <form id="chat-form" class="chat-composer"><input id="chat-input" type="text" maxlength="250" placeholder="Postavi pitanje ili odgovori..." aria-label="Napiši poruku" required /><button type="submit" id="chat-send" aria-label="Pošalji poruku">➤</button></form>
+          <div class="guess-area" id="guess-area" hidden>
+            <div class="guess-title"><div><span class="guess-star">✦</span><strong>Znaš odgovor?</strong></div><span>Pogodi partnerovu životinju</span></div>
+            <div class="guess-controls"><div class="picker guess-picker" id="guess-picker"><input class="text-input picker-input" id="guess-search" placeholder="Koju životinju ima druga osoba?" autocomplete="off" aria-label="Pogodi partnerovu životinju" aria-autocomplete="list" aria-expanded="false" /><div class="picker-results" id="guess-results" role="listbox" hidden></div></div><button class="guess-btn" type="button" id="guess-submit" disabled>Pogodi ↗</button></div>
+          </div>
+        </section>
+      </div>
+      <div class="game-footer">✳ TAJNA OSTAJE TAJNA DOK NE POGODIŠ <span>—</span> SRETNO, DETEKTIVE!</div>
+    </main>
+    <footer class="site-footer" id="site-footer"><span>✳ divlja.igra</span><span>Napravljeno za znatiželjne glave i malo natjecanja. ♡</span></footer>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/app.js" defer></script>
+</body>
+</html>
